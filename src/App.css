@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+/*Schriften*/
+h1{
+  margin-left: 1rem;
+}

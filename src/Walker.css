@@ -1,0 +1,23 @@
+canvas {
+    border: 1px solid #ccc; /* Rahmen für das Canvas-Element */
+    background-color: #050404; /* Hintergrundfarbe für das Canvas-Element */
+    margin-left: 20px
+  }
+  /* Walker.css */
+
+.canvas-container {
+    position: relative;
+    width: 650px;
+    height: 650px;
+    margin: 20px auto;
+  }
+  
+  .walker-canvas {
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: 1px solid #ccc; /* Rahmen für das Canvas-Element */
+    background-color: #050404; /* Hintergrundfarbe für das Canvas-Element */
+    margin-left: 20px;
+  }
